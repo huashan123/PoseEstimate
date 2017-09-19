@@ -197,7 +197,7 @@ public:
     return area;
   }
 private:
-  //---灰度图像
+  //---灰度图像修改
   cv::Mat grayImage;
   //---滤波图像
   cv::Mat blurImage;
